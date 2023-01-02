@@ -4,6 +4,7 @@
 # BUSINESS PROBLEM
 
 All in One Place is  a company that sells second line products of various brands with a lower price. After more than one year of operation, the market team realized that some customers were buying more expensive products with high frequency, which contributed significantly to the company’s revenues.
+Based on this, the market team decided launch a loyalty program called Insiders, bringing together the best customers to offer the best products, aiming to increase the company’s revenue.
 - The company has a list of 380.000 of posssible interested customers;
 - The company has the capacity to make only 20.000 calls by period campaign.
 - The product team selected 127,000 new customers who did not respond to the survey to participate in a campaign.
