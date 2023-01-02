@@ -5,17 +5,20 @@
 
 All in One Place is  a company that sells second line products of various brands with a lower price. After more than one year of operation, the market team realized that some customers were buying more expensive products with high frequency, which contributed significantly to the company’s revenues.
 Based on this, the market team decided launch a loyalty program called Insiders, bringing together the best customers to offer the best products, aiming to increase the company’s revenue.
-- The company has a list of 380.000 of posssible interested customers;
-- The company has the capacity to make only 20.000 calls by period campaign.
-- The product team selected 127,000 new customers who did not respond to the survey to participate in a campaign.
 
-# Solution:
-
-<img width="678" alt="Captura de Tela 2022-09-28 às 9 31 17 AM" src="https://user-images.githubusercontent.com/97919969/192836667-0063a785-d763-4ea0-9578-44ab97de1c53.png">
-
-Use Machine Learning algorithm to sort a list priorizing the most interested customers, that can be seen by Google Sheets;
 
 # Solution Strategy
+
+A report with the answers to following question:
+- Who are the eligible people for the Insiders Program?
+- How many people will be in the group?
+- Which are the main characteristics of these customers?
+- What is the percentage revenue contribution coming from Insiders?
+- What is the revenue expectation for the next few months?
+- Which are the conditions for the people to be eligible from the program?
+- Which are the conditions for the people to be removed from the program?
+- What is the guarantee that the Insiders Problem is better than the rest of the base?
+- What are the action the marketing team can do to enhance the revenue?
 
 - Step 01. - Startical Description - Get insigts based on startical;
 
