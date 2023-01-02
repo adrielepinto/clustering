@@ -65,18 +65,23 @@ The revenue median is 327.45% over than the total revenue median totalizing $2,6
 
 <img width="584" alt="Screen Shot 2023-01-02 at 11 10 43 AM" src="https://user-images.githubusercontent.com/97919969/210270838-be5fd2f3-1950-4a08-ae12-f0eeb534768d.png">
 
+# IPCA 
+
+<img width="948" alt="Screen Shot 2023-01-02 at 11 19 11 AM" src="https://user-images.githubusercontent.com/97919969/210271297-e9f24fad-e461-46b4-a54c-0a239dff23b0.png">
 
 # Tested Machine Learning Models
-- Boruta
-- KNN;
-- Regression Logistic;
-- Extra Trees;
-- Random Forest;
+- K-Means;
+- GMM;
+- Hierarchical Clustering;
+- DBSCAN;
+
 
 # Machine Learning Modelling 
-- Regression Logistic:
+- GMM Model:
 
-Among all machine learning models trained, Logist Regression was one that showed a better result, where it shows a steeper curve.
+<img width="947" alt="Screen Shot 2023-01-02 at 11 23 21 AM" src="https://user-images.githubusercontent.com/97919969/210271596-fb294b2f-8cf9-48d8-9654-8327328ce25a.png">
+
+Among all machine learning models trained, GMM Model was one that showed a better results.
 
 # Curve Cumulative Gain
 <img width="886" alt="Captura de Tela 2022-09-29 às 9 04 40 AM" src="https://user-images.githubusercontent.com/97919969/193082213-bc8bbb3c-c92d-4858-9651-ce8bd4053713.png">
