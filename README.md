@@ -83,29 +83,29 @@ The revenue median is 327.45% over than the total revenue median totalizing $2,6
 
 Among all machine learning models trained, GMM Model was one that showed a better results.
 
-# Curve Cumulative Gain
-<img width="886" alt="Captura de Tela 2022-09-29 às 9 04 40 AM" src="https://user-images.githubusercontent.com/97919969/193082213-bc8bbb3c-c92d-4858-9651-ce8bd4053713.png">
-- Insights:
-Impacting 40% of customers base we will be impacting more than 60% of all interested customers in purchase a new car insurance;
+# Cluster Analysis
+
+<img width="997" alt="Screen Shot 2023-01-02 at 11 26 24 AM" src="https://user-images.githubusercontent.com/97919969/210271794-811a6c5c-87d5-4f21-a44e-a8bd533c550c.png">
 
 
-- To reach all interested customers in purchase a new car insurance it's needed utilize just  around 68% of customers base, being possible to rule out more than 30% of customers who will not be interested in buying car insurance. With this information, the business team can make some decisions such as reduce the team, or even double to make more calls, reduce the number of machines used, directly impacting the company's revenue.
 
-# Manually Lift Curve
-<img width="861" alt="Screen Shot 2022-06-07 at 9 58 18 AM" src="https://user-images.githubusercontent.com/97919969/172440135-60fe7064-ad37-447c-a9cf-21113584d08a.png">
+# Cluster Profile
 
- The Lift Curve shows how the results of the trained model is better than random model. As showed above, if the calls are made using the Randon Forest Model trained, impacting 20% of customers, the results will be 1.8 better than if the calls are made randomly.
+<img width="710" alt="Screen Shot 2023-01-02 at 11 28 12 AM" src="https://user-images.githubusercontent.com/97919969/210271900-0c0b38f4-3f41-4b8e-8338-69077e0e8581.png">
+
+
  
-# 4. Conclusion and Demostration 
-# Manually ROI Curve
+# 4. Project Results 
 
-<img width="621" alt="Screen Shot 2022-06-07 at 10 00 45 AM" src="https://user-images.githubusercontent.com/97919969/172440613-41fa1e0d-5f01-4d5f-8539-1ef396f2eacf.png">
-<img width="874" alt="Screen Shot 2022-06-07 at 10 03 04 AM" src="https://user-images.githubusercontent.com/97919969/172440982-1679b056-419e-4a63-9da4-c512c0dca417.png"
+<img width="691" alt="Screen Shot 2023-01-02 at 11 31 01 AM" src="https://user-images.githubusercontent.com/97919969/210272087-4cb8dd63-008a-4e7b-90b5-cb230a26ddba.png">
+
+The garantee is that Insiders Program has increased the company revenue in 35%, compared to the total base, totalizing $ 3,537,036.16
      
-# How to access the prediction
+# Next Steps:
 
-Click on the link bellow.
+- Apply the clustering model;
+- Indentify which products has more returns and why they are returning;
+- Make the customer buy more expensive products;
+- Create strategy to make the customer returns more often and decrease the recency;
 
-https://docs.google.com/spreadsheets/d/1b2JnB4h7wAknER5g156xD5ZxCZVTJwZkr9hRIYX75i0/edit#gid=1007729239
-     
-<img width="1440" alt="Screen Shot 2022-07-19 at 9 35 28 AM" src="https://user-images.githubusercontent.com/97919969/179803305-e667a4a3-2cec-4d20-87d0-d8eabd99e96a.png">
+Thank You for your Atenttion!
