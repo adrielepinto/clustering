@@ -13,10 +13,6 @@ Based on this, the market team decided launch a loyalty program called Insiders,
 - A report answering the compani questions
 
 
-
-# Assumptions
-In validating the hypotheses, a case study was carried out for each feature due to the lack of clear data to obtain insights.
-
 # Attribute List
 - Customer Id: unique customer identifier.
 - Invoice Number: unique indicator of each transaction.
