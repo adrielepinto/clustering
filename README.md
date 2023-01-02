@@ -61,11 +61,10 @@ True
 
 The revenue median is 327.45% over than the total revenue median totalizing $2,624.26.
 
-# Feature Importance
-<img width="987" alt="Screen Shot 2022-06-07 at 9 42 38 AM" src="https://user-images.githubusercontent.com/97919969/172437182-1d75bc83-84f4-4c48-a149-bd32689373b9.png">
-<img width="484" alt="Screen Shot 2022-06-07 at 9 44 54 AM 1" src="https://user-images.githubusercontent.com/97919969/172437716-1d697cfa-034e-4ef9-8853-f153459e94a0.png">
+# Analysis
 
-The model shows that the most important feature is Vintage, and Vehicle Damage doesn’t have any importance.
+<img width="584" alt="Screen Shot 2023-01-02 at 11 10 43 AM" src="https://user-images.githubusercontent.com/97919969/210270838-be5fd2f3-1950-4a08-ae12-f0eeb534768d.png">
+
 
 # Tested Machine Learning Models
 - Boruta
