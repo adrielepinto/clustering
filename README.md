@@ -57,14 +57,6 @@ True
 
 The revenue median is 327.45% over than the total revenue median totalizing $2,624.26.
 
-# Analysis
-
-<img width="584" alt="Screen Shot 2023-01-02 at 11 10 43 AM" src="https://user-images.githubusercontent.com/97919969/210270838-be5fd2f3-1950-4a08-ae12-f0eeb534768d.png">
-
-# IPCA 
-
-<img width="948" alt="Screen Shot 2023-01-02 at 11 19 11 AM" src="https://user-images.githubusercontent.com/97919969/210271297-e9f24fad-e461-46b4-a54c-0a239dff23b0.png">
-
 # Tested Machine Learning Models
 - K-Means;
 - GMM;
