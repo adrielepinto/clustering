@@ -20,26 +20,6 @@ A report with the answers to following question:
 - What is the guarantee that the Insiders Problem is better than the rest of the base?
 - What are the action the marketing team can do to enhance the revenue?
 
-- Step 01. - Startical Description - Get insigts based on startical;
-
-- Step 02. - Exploratory Data Analysis - Understand the Business Model and Features Relevance;
-
-- Step 03. - Balance Data - Balance data of vehicle insurance interests;
-
-- Step 04. - Data Preparation - Encolding, Reescaling, and Transform to data model;
-
-- Step 05. - Modeling - Test five Machine Lear Models;
-
-- Step 06. - Cross Validadtion -  Make Cross Validation of two models with best performance 
-
-- Step 07. - Hyperparameter - Find the best modeling parameters;
-
-- Step 08. - Business Model - Convert ML metrics to Business Metrics 
-
-- Step 09. - Deploy Model to Production - Make the model available for others to use;
-
-- Step 10. - Deploy Model to Production - Access the model by Google Sheets.
-
 
 # Assumptions
 In validating the hypotheses, a case study was carried out for each feature due to the lack of clear data to obtain insights.
