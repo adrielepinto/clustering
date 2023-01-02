@@ -9,7 +9,24 @@ Based on this, the market team decided launch a loyalty program called Insiders,
 
 # Solution Strategy
 
-A report with the answers to following question:
+- Indication of people to be part of the program.
+- A report answering the compani questions
+
+
+
+# Assumptions
+In validating the hypotheses, a case study was carried out for each feature due to the lack of clear data to obtain insights.
+
+# Attribute List
+- Customer Id: unique customer identifier.
+- Invoice Number: unique indicator of each transaction.
+- Stock Code Product: Item code.
+- Quantity: The quantity item selled by each transaction. 
+- Invoice Date: Day of the transaction was made.
+- Unit Price: Price of each product.
+- Country: Name of country where the custumer lives.
+
+# Questions to answer:
 - Who are the eligible people for the Insiders Program?
 - How many people will be in the group?
 - Which are the main characteristics of these customers?
@@ -19,29 +36,6 @@ A report with the answers to following question:
 - Which are the conditions for the people to be removed from the program?
 - What is the guarantee that the Insiders Problem is better than the rest of the base?
 - What are the action the marketing team can do to enhance the revenue?
-
-
-# Assumptions
-In validating the hypotheses, a case study was carried out for each feature due to the lack of clear data to obtain insights.
-
-# Attribute List
-- Id: unique customer identifier.
-- Gender: Gender of the customer.
-- Age: customer's age.
-- Driving License: 0, the client isn't allowed to drive and 1, the client has to drive.
-- Region Code: Customer's region code.
-- Previously Insured: 0, the customer doesn't have auto insurance and 1, the customer already has auto insurance.
-- Vehicle Age: vehicle age.
-- Vehicle Damage: 0, customer has never had his vehicle damaged in the past and 1, customer has had his vehicle damaged in the past.
-- Annual Premium: amount the customer paid the company for annual health insurance.
-- Policy sales channel: anonymous code for the customer contact channel.
-- Vintage: number of days that the customer was associated with the company through the purchase of health insurance.
-- Response: 0, the customer isn't interested and 1, the customer is interested.
-
-# Questions to answer:
-- 1. What are the main insights into the most relevant attributes of customers interested in purchasing auto insurance?
-- 2. What percentage of customers interested in purchasing auto insurance will the sales team be able to contact by making 20,000 calls?
-- 3. If the sales team's capacity increases to 40,000 calls, what percentage of customers interested in purchasing auto insurance will the sales team be able to contact?
 
 
 # Three Data Insigths
