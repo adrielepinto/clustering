@@ -40,28 +40,24 @@ In validating the hypotheses, a case study was carried out for each feature due 
 
 # Three Data Insigths
 
- # H1. 50% of female customers would be interested on the car insurance.
- FALSE
-<img width="1090" alt="Screen Shot 2022-06-07 at 9 15 37 AM" src="https://user-images.githubusercontent.com/97919969/172434715-cb58ac55-7ae0-48f5-b0be-94b42aaf7963.png">
+ # H1. The customers of the cluster insiders has a amount (product) of purchase over 10% of purchase total;
 
-- 31% Female customers are not interested.
-- 5.44% Female customers interested.
-- 52% Male customers are not interested.
-- 10% Male customers are interested.
-- 
-# H2. Customers over 50 years old would be interested on the car insurance.
+ True
+<img width="816" alt="Screen Shot 2023-01-02 at 10 58 21 AM" src="https://user-images.githubusercontent.com/97919969/210270017-aa53384f-42e6-489f-8a47-dc01c4133715.png">
+
+# H2. The customers of the cluster insiders has a amount (revenue) of purchase over 10% of purchase total;
+True 
+
+<img width="816" alt="Screen Shot 2023-01-02 at 11 00 18 AM" src="https://user-images.githubusercontent.com/97919969/210270096-dd9cf177-ef82-4d16-b844-30431a24efce.png">
+
+
+# H4. The revenue median by customers of the cluster insiders are 10% larger than the total revenue median;
+ 
 FALSE 
-<img width="1087" alt="Screen Shot 2022-06-07 at 9 20 09 AM" src="https://user-images.githubusercontent.com/97919969/172432069-867036bd-3539-4749-9e60-498e60c1a7d6.png">
-- Customers over 50 years old are not interested.
+<img width="816" alt="Screen Shot 2023-01-02 at 11 02 10 AM" src="https://user-images.githubusercontent.com/97919969/210270237-c17ddf37-3ac0-4f97-a3af-eea769776dff.png">
 
-# H3 - Customers who has cars less than one year are insterested on the car 
-FALSE 
-<img width="1081" alt="Screen Shot 2022-06-07 at 9 23 04 AM" src="https://user-images.githubusercontent.com/97919969/172434983-dd85c7fc-c51e-425c-9a75-15411eb36699.png">
-<img width="449" alt="Screen Shot 2022-06-07 at 9 34 33 AM" src="https://user-images.githubusercontent.com/97919969/172435393-95515893-5901-40e5-b390-ea26f6c6af3c.png">
-- Bellow 1 year = 0.07% of  interested customers.
-- Between 1 and 2 yars = 13% of interested customers.
-- Over years = 2.80% of interested customers.
 
+The revenue median is 327.45% over than the total revenue median totalizing $2,624.26.
 
 # Feature Importance
 <img width="987" alt="Screen Shot 2022-06-07 at 9 42 38 AM" src="https://user-images.githubusercontent.com/97919969/172437182-1d75bc83-84f4-4c48-a149-bd32689373b9.png">
