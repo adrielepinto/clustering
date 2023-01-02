@@ -44,7 +44,7 @@ In validating the hypotheses, a case study was carried out for each feature due 
 
  True
 <img width="816" alt="Screen Shot 2023-01-02 at 10 58 21 AM" src="https://user-images.githubusercontent.com/97919969/210270017-aa53384f-42e6-489f-8a47-dc01c4133715.png">
-
+The Insider Program sell 28% more when it compared to the total database.
 # H2. The customers of the cluster insiders has a amount (revenue) of purchase over 10% of purchase total;
 True 
 
