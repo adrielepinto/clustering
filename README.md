@@ -55,6 +55,7 @@ True
 # H4. The revenue median by customers of the cluster insiders are 10% larger than the total revenue median;
  
 True 
+
 <img width="816" alt="Screen Shot 2023-01-02 at 11 02 10 AM" src="https://user-images.githubusercontent.com/97919969/210270237-c17ddf37-3ac0-4f97-a3af-eea769776dff.png">
 
 
