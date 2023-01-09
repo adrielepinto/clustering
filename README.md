@@ -88,7 +88,14 @@ Among all machine learning models trained, GMM Model was one that showed a bette
 <img width="691" alt="Screen Shot 2023-01-02 at 11 31 01 AM" src="https://user-images.githubusercontent.com/97919969/210272087-4cb8dd63-008a-4e7b-90b5-cb230a26ddba.png">
 
 The garantee is that Insiders Program has increased the company revenue in 35%, compared to the total base, totalizing $ 3,537,036.16
-     
+
+# Data Visualization
+
+
+https://user-images.githubusercontent.com/97919969/211403435-df4448c4-82d6-4005-bccf-38aeac3d9f3f.mov
+
+
+
 # Next Steps:
 
 - Apply the clustering model;
