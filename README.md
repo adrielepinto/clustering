@@ -75,15 +75,13 @@ The revenue median is 327.45% over than the total revenue median totalizing $2,6
 Among all machine learning models trained, GMM Model was one that showed a better results.
 
 # Cluster Analysis
+<img width="1014" alt="Screen Shot 2023-01-10 at 5 44 52 AM" src="https://user-images.githubusercontent.com/97919969/211567751-22715136-5529-425f-ac17-2f6bb81f385b.png">
 
-<img width="997" alt="Screen Shot 2023-01-02 at 11 26 24 AM" src="https://user-images.githubusercontent.com/97919969/210271794-811a6c5c-87d5-4f21-a44e-a8bd533c550c.png">
 
 
 
 # Cluster Profile
-
-<img width="710" alt="Screen Shot 2023-01-02 at 11 28 12 AM" src="https://user-images.githubusercontent.com/97919969/210271900-0c0b38f4-3f41-4b8e-8338-69077e0e8581.png">
-
+<img width="736" alt="Screen Shot 2023-01-10 at 5 47 00 AM" src="https://user-images.githubusercontent.com/97919969/211568014-8ea87c35-853f-491d-bd6d-e9f808280f2a.png">
 
  
 # 4. Project Results 
