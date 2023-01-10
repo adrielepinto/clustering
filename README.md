@@ -88,7 +88,7 @@ The image show how the GMM separeted each cluster.
 # Cluster Profile
 <img width="736" alt="Screen Shot 2023-01-10 at 5 47 00 AM" src="https://user-images.githubusercontent.com/97919969/211568014-8ea87c35-853f-491d-bd6d-e9f808280f2a.png">
 
- 
+ This table demostrate the peformance for each cluster, which the business team can base to make decisions. 
 # 4. Project Results 
 
 <img width="749" alt="Screen Shot 2023-01-10 at 5 42 23 AM" src="https://user-images.githubusercontent.com/97919969/211567049-d678bbab-5c3d-442f-9cf8-00bebc7c19c0.png">
@@ -97,7 +97,7 @@ The image show how the GMM separeted each cluster.
 The garantee is that Insiders Program has increased the company revenue in 61%, compared to the total base, totalizing $ 3,537,036.16 .
 
 # Data Visualization
-
+ 
 
 
 https://user-images.githubusercontent.com/97919969/211404386-2525d9a4-49b8-43a7-98c7-78ca9cb936e7.mov
