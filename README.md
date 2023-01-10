@@ -39,20 +39,23 @@ Based on this, the market team decided launch a loyalty program called Insiders,
  # H1. The customers of the cluster insiders has a amount (product) of purchase over 10% of purchase total;
 True
 
-<img width="816" alt="Screen Shot 2023-01-02 at 10 58 21 AM" src="https://user-images.githubusercontent.com/97919969/210270017-aa53384f-42e6-489f-8a47-dc01c4133715.png">
-The Insider Program sell 28% more when it compared to the total database.
+<img width="749" alt="Screen Shot 2023-01-10 at 5 37 03 AM" src="https://user-images.githubusercontent.com/97919969/211565828-a692878c-efab-48b4-b8ba-febedc69bc5e.png">
+
+The Insider Program sell 61% more when it compared to the total database.
 
 # H2. The customers of the cluster insiders has a amount (revenue) of purchase over 10% of purchase total;
 True 
 
-<img width="816" alt="Screen Shot 2023-01-02 at 11 00 18 AM" src="https://user-images.githubusercontent.com/97919969/210270096-dd9cf177-ef82-4d16-b844-30431a24efce.png">
+<img width="749" alt="Screen Shot 2023-01-10 at 5 38 04 AM" src="https://user-images.githubusercontent.com/97919969/211566063-bbd56f31-b276-472f-bc20-7bac7b703eb3.png">
+
 
 
 # H4. The revenue median by customers of the cluster insiders are 10% larger than the total revenue median;
  
 True 
 
-<img width="816" alt="Screen Shot 2023-01-02 at 11 02 10 AM" src="https://user-images.githubusercontent.com/97919969/210270237-c17ddf37-3ac0-4f97-a3af-eea769776dff.png">
+<img width="749" alt="Screen Shot 2023-01-10 at 5 40 17 AM" src="https://user-images.githubusercontent.com/97919969/211566561-4f147f72-45db-444b-bea4-c099f97fff24.png">
+
 
 
 The revenue median is 327.45% over than the total revenue median totalizing $2,624.26.
