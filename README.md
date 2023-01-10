@@ -88,9 +88,10 @@ Among all machine learning models trained, GMM Model was one that showed a bette
  
 # 4. Project Results 
 
-<img width="691" alt="Screen Shot 2023-01-02 at 11 31 01 AM" src="https://user-images.githubusercontent.com/97919969/210272087-4cb8dd63-008a-4e7b-90b5-cb230a26ddba.png">
+<img width="749" alt="Screen Shot 2023-01-10 at 5 42 23 AM" src="https://user-images.githubusercontent.com/97919969/211567049-d678bbab-5c3d-442f-9cf8-00bebc7c19c0.png">
 
-The garantee is that Insiders Program has increased the company revenue in 35%, compared to the total base, totalizing $ 3,537,036.16
+
+The garantee is that Insiders Program has increased the company revenue in 61%, compared to the total base, totalizing $ 3,537,036.16 .
 
 # Data Visualization
 
