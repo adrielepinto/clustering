@@ -70,7 +70,11 @@ The revenue median is 327.45% over than the total revenue median totalizing $2,6
 # Machine Learning Modelling 
 - GMM Model:
 
-<img width="947" alt="Screen Shot 2023-01-02 at 11 23 21 AM" src="https://user-images.githubusercontent.com/97919969/210271596-fb294b2f-8cf9-48d8-9654-8327328ce25a.png">
+<img width="946" alt="Screen Shot 2023-01-10 at 5 50 25 AM" src="https://user-images.githubusercontent.com/97919969/211568761-d0bed89c-2d3c-4d54-87a5-625b67a9ffb4.png">
+
+<img width="936" alt="Screen Shot 2023-01-10 at 5 52 26 AM" src="https://user-images.githubusercontent.com/97919969/211569201-dc76e14b-36b3-4f44-a6ea-2134a7b8aff4.png">
+
+
 
 Among all machine learning models trained, GMM Model was one that showed a better results.
 
