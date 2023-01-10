@@ -97,7 +97,7 @@ The image show how the GMM separeted each cluster.
 ...
 
 
-The Business Team can make many decision to solve the company problems as they want.
+The Business Team can make many decision as they wantto solve the company problems based on the model result.
 # 4. Project Results 
 
 <img width="749" alt="Screen Shot 2023-01-10 at 5 42 23 AM" src="https://user-images.githubusercontent.com/97919969/211567049-d678bbab-5c3d-442f-9cf8-00bebc7c19c0.png">
