@@ -83,7 +83,7 @@ Both of models had similiary reslts, however the model has two disadvantages: it
 <img width="1014" alt="Screen Shot 2023-01-10 at 5 44 52 AM" src="https://user-images.githubusercontent.com/97919969/211567751-22715136-5529-425f-ac17-2f6bb81f385b.png">
 
 
-
+The image show how the GMM separeted each cluster.
 
 # Cluster Profile
 <img width="736" alt="Screen Shot 2023-01-10 at 5 47 00 AM" src="https://user-images.githubusercontent.com/97919969/211568014-8ea87c35-853f-491d-bd6d-e9f808280f2a.png">
