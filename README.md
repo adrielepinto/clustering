@@ -76,7 +76,7 @@ The revenue median is 327.45% over than the total revenue median totalizing $2,6
 
 
 
-According with the results, Kmeas performed well, however the model has twodisadvantages: its lack of flexibility in cluster shape and lack of probabilistic cluster assignment—mean that for many datasets it may not perform as well as might hope. The Gaussian mixture model (GMM) attempts to find a mixture of multi-dimensional Gaussian probability distributions that best model any input dataset. By assigning the probabilities to datapoints, we can express how strong is our belief that a given datapoint belongs to a specific cluster.
+Both of models had similiary reslts, however the model has two disadvantages: its lack of flexibility in cluster shape and lack of probabilistic cluster assignment—mean that for many datasets it may not perform as well as might hope. The Gaussian mixture model (GMM) attempts to find a mixture of multi-dimensional Gaussian probability distributions that best model any input dataset. By assigning the probabilities to datapoints, we can express how strong is our belief that a given datapoint belongs to a specific cluster. Based on this, the best choice was The Gaussian mixture model .
 
 
 # Cluster Analysis
