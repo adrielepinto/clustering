@@ -11,7 +11,7 @@ Based on this, the market team decided launch a loyalty program called Insiders,
 
 - Indication of people to be part of the program.
 - A report answering the compani questions
-
+- Data Visualization by Metabase
 
 # Attribute List
 - Customer Id: unique customer identifier.
