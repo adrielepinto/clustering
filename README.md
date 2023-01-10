@@ -76,7 +76,8 @@ The revenue median is 327.45% over than the total revenue median totalizing $2,6
 
 
 
-Among all machine learning models trained, GMM Model was one that showed a better results.
+According with the results, Kmeas performed well, however the model has twodisadvantages: its lack of flexibility in cluster shape and lack of probabilistic cluster assignment—mean that for many datasets it may not perform as well as might hope. The Gaussian mixture model (GMM) attempts to find a mixture of multi-dimensional Gaussian probability distributions that best model any input dataset. By assigning the probabilities to datapoints, we can express how strong is our belief that a given datapoint belongs to a specific cluster.
+
 
 # Cluster Analysis
 <img width="1014" alt="Screen Shot 2023-01-10 at 5 44 52 AM" src="https://user-images.githubusercontent.com/97919969/211567751-22715136-5529-425f-ac17-2f6bb81f385b.png">
