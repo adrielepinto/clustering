@@ -106,9 +106,9 @@ The Business Team can make many decision as they wantto solve the company proble
 The garantee is that Insiders Program has increased the company revenue in 61%, compared to the total base, totalizing $ 3,537,036.16 .
 
 # Data Visualization
- A small demonstration of the result of the project.
-A database has been created on AWS, and this database needs to be constantly updated with company data. For this to happen, a structure was set up where all conditions with data cleaning, model training and the result of these models were placed in a repository on Git Hub. From there, an EC2 was created in AWS to receive this data stored in Git Hub. From that, they were connected in a postgrees that are updated every 2 minutes, and then this visualization can be done in Metabase, where the company is free to assemble visualization graphs that it wants.
-
+ A small demonstration of the result of the project. A database was created on AWS, which it needs to be constantly updated with new company data. For that, a structure was set up, where the script with the cleaning and transformation of the data, and trained model are run every scheduled time. Then the visualization can be seen through a Metabase, where the company can be based assembling graphs of visualization for decision making.
+ 
+ 
 https://user-images.githubusercontent.com/97919969/211404386-2525d9a4-49b8-43a7-98c7-78ca9cb936e7.mov
 
 https://user-images.githubusercontent.com/97919969/211406536-a0ce9d5c-3037-490b-8ded-69780352badf.mov
