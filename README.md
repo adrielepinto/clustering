@@ -52,7 +52,17 @@ obs: Each line represents a sale.
 # 3.0 Business Assumptions
 
 
-# Solution Strategy
+# 4.0 Business Solution:
+
+## 4.1 Solution Planning
+
+The technique used to solve this problem was end-to-end method.
+This process, objectively and quickly, allows you to deliver value to the business.
+In the first cycle of the project, surface cleaning is carried out, an algorithm is chosen to model the data, and a metric is chosen to measure how much the model is improving or worsening. The objective is that in each cycle, modifications are made to the project to improve the accuracy of the model. Therefore, in the first cycle, the business already has a first version of the project, which will be improved with each cycle, to assist in decision making.
+
+![endto](https://github.com/adrielepinto/clustering/assets/97919969/8e3b901e-a424-4b1d-8d62-252444396c2d)
+
+
 
 - Indication of people to be part of the program.
 - A report answering the compani questions
