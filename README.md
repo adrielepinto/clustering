@@ -15,7 +15,19 @@ For this reason, the marketing team asked the data team to program using advance
 As part of the team of data scientists at the company AlI In One Place, who need to determine who are eligible customers to participate in Insiders. In possession of this list, the Marketing team will carry out a sequence of personalized and exclusive actions for the group, in order to increase revenue and purchase frequency.
 As a result of this project, you are expected to deliver a list of people to participate in the Insiders program, along with a report answering the following questions:
 
-## 1.1 Understanding the Business Problem
+## 1.1Questions to answer:
+- Who are the eligible people for the Insiders Program?
+- How many people will be in the group?
+- Which are the main characteristics of these customers?
+- What is the percentage revenue contribution coming from Insiders?
+- What is the revenue expectation for the next few months?
+- Which are the conditions for the people to be eligible from the program?
+- Which are the conditions for the people to be removed from the program?
+- What is the guarantee that the Insiders Problem is better than the rest of the base?
+- What are the action the marketing team can do to enhance the revenue?
+
+
+## 1.2 Understanding the Business Problem
 Business Problem/Question: What?
 -  Identify and group customers to offer products according to their interests.
 
@@ -26,16 +38,8 @@ Root Cause of the Problem: Why carry out this project?
 
 The data for this project is available on the [Kaggle platform](https://www.kaggle.com/vik2012kvs/high-value-customers-identification)
 
-# 3.0 Business Assumptions
-
-
-# Solution Strategy
-
-- Indication of people to be part of the program.
-- A report answering the compani questions
-- Data Visualization by Metabase
-
-# Attribute List
+obs: Each line represents a sale.
+## 2.1 Attribute List
 - Customer Id: unique customer identifier.
 - Invoice Number: unique indicator of each transaction.
 - Stock Code Product: Item code.
@@ -44,16 +48,15 @@ The data for this project is available on the [Kaggle platform](https://www.kagg
 - Unit Price: Price of each product.
 - Country: Name of country where the custumer lives.
 
-# Questions to answer:
-- Who are the eligible people for the Insiders Program?
-- How many people will be in the group?
-- Which are the main characteristics of these customers?
-- What is the percentage revenue contribution coming from Insiders?
-- What is the revenue expectation for the next few months?
-- Which are the conditions for the people to be eligible from the program?
-- Which are the conditions for the people to be removed from the program?
-- What is the guarantee that the Insiders Problem is better than the rest of the base?
-- What are the action the marketing team can do to enhance the revenue?
+  
+# 3.0 Business Assumptions
+
+
+# Solution Strategy
+
+- Indication of people to be part of the program.
+- A report answering the compani questions
+- Data Visualization by Metabase
 
 
 # Three Data Insigths
