@@ -111,6 +111,7 @@ In the first cycle of the project, surface cleaning is carried out, an algorithm
 ## 4.2 Solution Process
 <img width="776" alt="Screen Shot 2023-09-18 at 10 57 44 AM" src="https://github.com/adrielepinto/clustering/assets/97919969/23871803-254e-4de0-98d2-600e5f07932c">
 
+The process basically consists of collecting the data that is ready in a table on the Kaggle website, for download. After collecting, cleaning and separating the training, testing and validation data, train the algorithm that will make the model's predictions. Therefore, a table will be issued with the model's predictions. This model will be stored in an [AWS Amazon](https://aws.amazon.com) database, to make predictions on new data. By connecting to [Metabase](https://www.metabase.com), it will be possible to view this prediction in an organized way according to the similarities of each cluster, helping decision making.
 
 # Three Data Insigths
 
