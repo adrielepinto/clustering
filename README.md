@@ -1,4 +1,4 @@
-# Insiders Clustering
+# High Value Customer Identification
 
 ![clust](https://github.com/adrielepinto/clustering/assets/97919969/c1b8901f-b218-4420-85f1-f4f05547a189)
 
