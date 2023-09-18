@@ -67,7 +67,7 @@ obs: Each line represents a sale.
 
   - Age;
   - Location;
-  - 
+    
 4.0 What is the percentage revenue contribution coming from Insiders?
 
   - Total revenue of the year;
@@ -83,13 +83,14 @@ obs: Each line represents a sale.
 7.0 Which are the conditions for the people to be removed from the program?
 
   - Define the periodicity ( 1 month, 3 months);
- - The people needs to be similary or seemed to other people in the group?
+  - The people needs to be similary or seemed to other people in the group?
 
    
 8.0 What is the guarantee that the Insiders Problem is better than the rest of the base?
 
   - A/B Test;
   - Hyphotesis Test;
+    
 9.0 What are the action the marketing time can do to enhance the revenue?
 
  -  Discount;
