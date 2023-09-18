@@ -50,7 +50,7 @@ obs: Each line represents a sale.
 
   
 # 3.0 Business Assumptions
-What are high value customers?
+1.  What are high value customers?
 - High averange ticket;
 - High LTV;
 - Low recently;
@@ -59,6 +59,43 @@ What are high value customers?
 - High LTV probability;
 - High buy propensity;
 - Low return rate;
+
+2. How many people will be in the group?
+  - Total customers number;
+    
+3. Which are the main characteristics of these customers?
+
+  - Age;
+  - Location;
+  - 
+4.0 What is the percentage revenue contribution coming from Insiders?
+
+  - Total revenue of the year;
+  - Renenue of the Insiders group;
+  
+5.0 What is the revenue expectation for the next few months?
+  - LTV of the Insider Group;
+
+6.0 Which are the conditions for the people to be eligible from the program?
+
+ - Define the periodicity ( 1 month, 3 months);
+ - The people needs to be similary or seemed to other people in the group?
+7.0 Which are the conditions for the people to be removed from the program?
+
+  - Define the periodicity ( 1 month, 3 months);
+ - The people needs to be similary or seemed to other people in the group?
+
+   
+8.0 What is the guarantee that the Insiders Problem is better than the rest of the base?
+
+  - A/B Test;
+  - Hyphotesis Test;
+9.0 What are the action the marketing time can do to enhance the revenue?
+
+ -  Discount;
+ -  Purchase Preferences
+ -  Company Visit;
+
 # 4.0 Business Solution:
 
 ## 4.1 Solution Planning
