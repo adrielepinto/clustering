@@ -50,8 +50,15 @@ obs: Each line represents a sale.
 
   
 # 3.0 Business Assumptions
-
-
+What are high value customers?
+- High averange ticket;
+- High LTV;
+- Low recently;
+- High basket size;
+- Low Churn probability;
+- High LTV probability;
+- High buy propensity;
+- Low return rate;
 # 4.0 Business Solution:
 
 ## 4.1 Solution Planning
@@ -63,8 +70,10 @@ In the first cycle of the project, surface cleaning is carried out, an algorithm
 ![endto](https://github.com/adrielepinto/clustering/assets/97919969/8e3b901e-a424-4b1d-8d62-252444396c2d)
 
 
-
-- Indication of people to be part of the program.
+## 4.2 Solution Process
+- Data Collection;
+- Data Cleaning;
+- 
 - A report answering the compani questions
 - Data Visualization by Metabase
 
