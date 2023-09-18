@@ -6,13 +6,18 @@ NOTE: The business context is fictitious, however all planning and development o
 
 # 1.0 BUSINESS PROBLEM
 
-All in One Place is  a company that sells second line products of various brands with a lower price. After more than one year of operation, the market team realized that some customers were buying more expensive products with high frequency, which contributed significantly to the company’s revenues.
-Based on this, the market team decided launch a loyalty program called Insiders, bringing together the best customers to offer the best products, aiming to increase the company’s revenue.
+The company All in One Place is a Multibrand Outlet company, that is, it sells second-line products from several brands at a lower price, through e-commerce.
+In just over 1 year of operation, the marketing team realized that some customers buy more expensive products, with high frequency and end up contributing a significant portion of the company's revenue.
+Based on this perception, the marketing team will launch a loyalty program for base customers, called Insiders. However, the team does not have advanced knowledge of data to choose program participants.
+For this reason, the marketing team asked the data team to program using advanced data manipulation techniques.
 
+
+As part of the team of data scientists at the company AlI In One Place, who need to determine who are eligible customers to participate in Insiders. In possession of this list, the Marketing team will carry out a sequence of personalized and exclusive actions for the group, in order to increase revenue and purchase frequency.
+As a result of this project, you are expected to deliver a list of people to participate in the Insiders program, along with a report answering the following questions:
 
 ## 1.1 Understanding the Business Problem
 Business Problem/Question: What?
--  Group customers to offer products according to their interests.
+-  Identify and group customers to offer products according to their interests.
 
 Root Cause of the Problem: Why carry out this project?
 - Reduce product offering errors, since if the customer finds what they are looking for, it increase the sales chancese, increasing the company's revenue.
@@ -20,6 +25,10 @@ Root Cause of the Problem: Why carry out this project?
 # 2.0 Data
 
 The data for this project is available on the [Kaggle platform](https://www.kaggle.com/vik2012kvs/high-value-customers-identification)
+
+# 3.0 Business Assumptions
+
+
 # Solution Strategy
 
 - Indication of people to be part of the program.
