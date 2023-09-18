@@ -4,12 +4,22 @@
 
 NOTE: The business context is fictitious, however all planning and development of the solution is implemented following all the steps of a real market project.
 
-# BUSINESS PROBLEM
+# 1.0 BUSINESS PROBLEM
 
 All in One Place is  a company that sells second line products of various brands with a lower price. After more than one year of operation, the market team realized that some customers were buying more expensive products with high frequency, which contributed significantly to the company’s revenues.
 Based on this, the market team decided launch a loyalty program called Insiders, bringing together the best customers to offer the best products, aiming to increase the company’s revenue.
 
 
+## 1.1 Understanding the Business Problem
+Business Problem/Question: What?
+-  Group customers to offer products according to their interests.
+
+Root Cause of the Problem: Why carry out this project?
+- Reduce product offering errors, since if the customer finds what they are looking for, it increase the sales chancese, increasing the company's revenue.
+
+# 2.0 Data
+
+The data for this project is available on the [Kaggle platform](https://www.kaggle.com/vik2012kvs/high-value-customers-identification)
 # Solution Strategy
 
 - Indication of people to be part of the program.
