@@ -109,11 +109,7 @@ In the first cycle of the project, surface cleaning is carried out, an algorithm
 
 
 ## 4.2 Solution Process
-- Data Collection;
-- Data Cleaning;
-- 
-- A report answering the compani questions
-- Data Visualization by Metabase
+<img width="776" alt="Screen Shot 2023-09-18 at 10 57 44 AM" src="https://github.com/adrielepinto/clustering/assets/97919969/23871803-254e-4de0-98d2-600e5f07932c">
 
 
 # Three Data Insigths
