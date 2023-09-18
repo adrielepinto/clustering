@@ -1,6 +1,7 @@
 # Insiders Clustering
 
-![image](https://user-images.githubusercontent.com/97919969/186549533-fbf4412f-d2f0-4a93-8764-b608ad659330.png)
+![clust](https://github.com/adrielepinto/clustering/assets/97919969/c1b8901f-b218-4420-85f1-f4f05547a189)
+
 # BUSINESS PROBLEM
 
 All in One Place is  a company that sells second line products of various brands with a lower price. After more than one year of operation, the market team realized that some customers were buying more expensive products with high frequency, which contributed significantly to the company’s revenues.
