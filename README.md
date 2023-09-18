@@ -2,6 +2,8 @@
 
 ![clust](https://github.com/adrielepinto/clustering/assets/97919969/c1b8901f-b218-4420-85f1-f4f05547a189)
 
+NOTE: The business context is fictitious, however all planning and development of the solution is implemented following all the steps of a real market project.
+
 # BUSINESS PROBLEM
 
 All in One Place is  a company that sells second line products of various brands with a lower price. After more than one year of operation, the market team realized that some customers were buying more expensive products with high frequency, which contributed significantly to the company’s revenues.
