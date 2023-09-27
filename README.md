@@ -147,7 +147,7 @@ The revenue median is 327.45% over than the total revenue median totalizing $2,6
 
 
 # Machine Learning Modelling 
-- GMM Model:
+- KMeans:
 
 <img width="946" alt="Screen Shot 2023-01-10 at 5 50 25 AM" src="https://user-images.githubusercontent.com/97919969/211568761-d0bed89c-2d3c-4d54-87a5-625b67a9ffb4.png">
 
@@ -155,7 +155,7 @@ The revenue median is 327.45% over than the total revenue median totalizing $2,6
 
 
 
-Both of models had similiary reslts, however the model has two disadvantages: its lack of flexibility in cluster shape and lack of probabilistic cluster assignment—mean that for many datasets it may not perform as well as might hope. The Gaussian mixture model (GMM) attempts to find a mixture of multi-dimensional Gaussian probability distributions that best model any input dataset. By assigning the probabilities to datapoints, we can express how strong is our belief that a given datapoint belongs to a specific cluster. Based on this, the best choice was The Gaussian mixture model .
+Both models had similar results, however the model has two specific results: a lack of flexibility in cluster shape and a lack of probabilistic cluster assignment – meaning that for many data sets it may not work as well. as one might expect. The KMeans model groups the points by calculating the distance of the points from the centroids (points placed in the middle of the feature space), which moves until creating the clusters.
 
 
 # Cluster Analysis
