@@ -173,7 +173,22 @@ Now is the time to experiment and see how machine learning algorithms respond.
 
 Both models had similar results, however the model has two specific results: a lack of flexibility in cluster shape and a lack of probabilistic cluster assignment – meaning that for many data sets it may not work as well. as one might expect. The KMeans model groups the points by calculating the distance of the points from the centroids (points placed in the middle of the feature space), which moves until creating the clusters.
 
-## 6.2 Machine Learning Metrics 
+## 6.2 Machine Learning Metrics - Silhouette Score
+The Silhouette Score metric evaluates whether the points were classified correctly, recalculating the point distances. Therefore, the Silhouette score includes the separation and cohesion of the cluster.
+
+- The closer to 1 = means that the clusters are cohesive and distant from each other;
+- 
+- The closer to 0 = It means that the clusters are not as cohesive and that they are close to each other.
+  
+- The closer to -1 = Means that the dot was assigned to the wrong cluster.
+
+<img width="810" alt="Screen Shot 2023-09-27 at 12 53 14 PM" src="https://github.com/adrielepinto/clustering/assets/97919969/6c086495-e133-4491-87d3-9c25c6e75e83">
+
+To analyze the graph, the more the figure looks like a 'knife', it means that the point probably belongs to another cluster.
+What we are looking for is a silhouette with visibly wider edges.
+
+
+What can be seen in the graph above is that for the data used, the clustering is neither cohesive nor separate.
 
 # Cluster Analysis
 <img width="1014" alt="Screen Shot 2023-01-10 at 5 44 52 AM" src="https://user-images.githubusercontent.com/97919969/211567751-22715136-5529-425f-ac17-2f6bb81f385b.png">
