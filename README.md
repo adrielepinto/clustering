@@ -135,28 +135,45 @@ True
 
 <img width="749" alt="Screen Shot 2023-01-10 at 5 40 17 AM" src="https://user-images.githubusercontent.com/97919969/211566561-4f147f72-45db-444b-bea4-c099f97fff24.png">
 
-
-
 The revenue median is 327.45% over than the total revenue median totalizing $2,624.26.
 
-# Tested Machine Learning Models
+# 5.0 Space Study
+The study of space basically refers to the use of techniques to reduce the dimensionalities of the feature space, where it will be summarized in just two features, separating the points in space and creating clusters. 
+Tested tecnics:
+- UMAP
+- TSNE
+- Tree Based
+- 
+<img width="856" alt="Screen Shot 2023-09-27 at 12 36 30 PM" src="https://github.com/adrielepinto/clustering/assets/97919969/cdff4363-3a44-4cc5-bc41-1e38a0d44384">
+
+> Above, is possible to see how messy the feature space of the original dataset is.
+> 
+
+<img width="856" alt="Screen Shot 2023-09-27 at 12 36 49 PM" src="https://github.com/adrielepinto/clustering/assets/97919969/159201b6-7ac6-4949-a4c3-e29db87e5cbf">
+
+Soon after dimensionality reduction, the  UMAP created more separate and cohesive clusters.
+
+
+Therefore, the clustering process will now no longer be based on the original feature space, but rather on the reduction selected by UMAP.
+
+# 6.0 Tested Machine Learning Models
+Now is the time to experiment and see how machine learning algorithms respond.
 - K-Means;
 - GMM;
 - Hierarchical Clustering;
 - DBSCAN;
 
 
-# Machine Learning Modelling 
+## 6.1 Machine Learning Modelling 
 - KMeans:
 
-<img width="946" alt="Screen Shot 2023-01-10 at 5 50 25 AM" src="https://user-images.githubusercontent.com/97919969/211568761-d0bed89c-2d3c-4d54-87a5-625b67a9ffb4.png">
-
-<img width="936" alt="Screen Shot 2023-01-10 at 5 52 26 AM" src="https://user-images.githubusercontent.com/97919969/211569201-dc76e14b-36b3-4f44-a6ea-2134a7b8aff4.png">
+<img width="829" alt="Screen Shot 2023-09-27 at 12 47 11 PM" src="https://github.com/adrielepinto/clustering/assets/97919969/605e170a-820f-43f3-8e9b-68c0f65077f1">
 
 
 
 Both models had similar results, however the model has two specific results: a lack of flexibility in cluster shape and a lack of probabilistic cluster assignment – meaning that for many data sets it may not work as well. as one might expect. The KMeans model groups the points by calculating the distance of the points from the centroids (points placed in the middle of the feature space), which moves until creating the clusters.
 
+## 6.2 Machine Learning Metrics 
 
 # Cluster Analysis
 <img width="1014" alt="Screen Shot 2023-01-10 at 5 44 52 AM" src="https://user-images.githubusercontent.com/97919969/211567751-22715136-5529-425f-ac17-2f6bb81f385b.png">
