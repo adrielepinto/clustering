@@ -3,7 +3,7 @@
 ![clust](https://github.com/adrielepinto/clustering/assets/97919969/c1b8901f-b218-4420-85f1-f4f05547a189)
 
 NOTE: The business context is fictitious, however all planning and development of the solution is implemented following all the steps of a real market project.
-You can follow the entire development of the project on  [notebook](https://github.com/adrielepinto/clustering/blob/main/notebooks/c0.9-pa005-clustering-model-mindmap.ipynb)
+You can follow the entire development of the project on notebook [c0.9-pa005-clustering-model-mindmap.ipynb](https://github.com/adrielepinto/clustering/blob/main/notebooks/c0.9-pa005-clustering-model-mindmap.ipynb)
 
 # 1.0 BUSINESS PROBLEM
 
