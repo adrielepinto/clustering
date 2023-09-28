@@ -280,7 +280,7 @@ Customers who do not fit these criteria will be removed.
 
 <img width="679" alt="Screen Shot 2023-09-28 at 10 05 08 AM" src="https://github.com/adrielepinto/clustering/assets/97919969/62b212e6-4bd5-49b7-8006-44d03c6870fc">
 
-- The garantee is that Insiders Program has increased the company revenue in 69%, compared to the total base, totalizing $ 10,104,658.35
+- The garantee is that Insiders Program has increased the company revenue in 69%, compared to the total base, totalizing $10,104,658.35
 
 ## 9.9  What are the action the marketing team can do to enhance the revenue?
 
@@ -295,30 +295,9 @@ Customers who do not fit these criteria will be removed.
 
 
 
+# 10.0 Model into Production
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 4. Project Results 
-
-<img width="749" alt="Screen Shot 2023-01-10 at 5 42 23 AM" src="https://user-images.githubusercontent.com/97919969/211567049-d678bbab-5c3d-442f-9cf8-00bebc7c19c0.png">
-
-
-The garantee is that Insiders Program has increased the company revenue in 61%, compared to the total base, totalizing $ 3,537,036.16 .
-
-# Data Visualization
- A small demonstration of the result of the project. A database was created on AWS, which it needs to be constantly updated with new company data. For that, a structure was set up, where the script with the cleaning and transformation of the data, and trained model are run every scheduled time. Then the visualization can be seen through a Metabase, where the company can be based assembling graphs of visualization for decision making.
+ A demonstration of the result of the project. A database was created on AWS, which it needs to be constantly updated with new company data. For that, a structure was set up, where the script with the cleaning and transformation of the data, and trained model are run every scheduled time. Then the visualization can be seen through a Metabase, where the company can be based assembling graphs of visualization for decision making.
  
  
 https://user-images.githubusercontent.com/97919969/211404386-2525d9a4-49b8-43a7-98c7-78ca9cb936e7.mov
