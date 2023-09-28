@@ -219,23 +219,97 @@ What is a good customer?
 - The customer who has a low recency.
 - The customer who has a high frequency.
 
-- 
-- The cluster that most identified with these criteria was cluster number 0.
+
+ The cluster that most identified with these criteria was cluster number 0.
+ 
+
+Note: These criteria must be assumed in numbers by managers and those responsible for the business and passed on to the data scientist, however in this study, the manager was not present, I, as a data scientist, needed to assume the characteristics that define a good client for the company. 
+
+# 9.0 Business Quetions 
+
+## 9.1 - Who are the eligible people for the Insiders Program?
+
+- Are the customer from cluster 0 .
+
+## 9.2 How many people will be in the group?
+
+  - 1827 customers
+
+<img width="443" alt="Screen Shot 2023-09-28 at 9 57 41 AM" src="https://github.com/adrielepinto/clustering/assets/97919969/4f853d0d-18e8-4608-b933-73c6fb20f167">
 
 
-# Cluster Profile
-<img width="736" alt="Screen Shot 2023-01-10 at 5 47 00 AM" src="https://user-images.githubusercontent.com/97919969/211568014-8ea87c35-853f-491d-bd6d-e9f808280f2a.png">
+## 9.3 Which are the main characteristics of these customers?
 
- This table demostrate the characteristics for each cluster, which the Business Team can base to make decisions as:
- - Cluster 4 - Are the customers that are bringing to the company more gross revenue, so the marketing team can offer higher quality products for these customers.
- - Cluster 5 - Are the customers who buy fewer quantity products, so the the marketing team can create a specific strategy for these customers to make they buy more products.
- - Cluster 1 - Has higher percentage of customers, 28% from the database and averange of 137 days of the last purchase, so the business team can verify what kind of products usually they buy and make these customers come back more often to buy.
+  - They spend a lot.
+  - has low recency.
+  - They buy a lot of products.
+    
+## 9.4 What is the percentage revenue contribution coming from Insiders?
+
+- The percentage revenue contribution will be 69%
+
+<img width="588" alt="Screen Shot 2023-09-28 at 10 01 03 AM" src="https://github.com/adrielepinto/clustering/assets/97919969/e55703c2-31ee-443a-958f-6a9c541d88a5">
 
 
-...
+## 9.5 What is the revenue expectation for the next few months?
+
+- To have the answer, it's would take some time to see how the model is performing by the time.
+
+  
+## 9.6 Which are the conditions for the people to be eligible from the program?
+
+What is a good customer?
+
+- The customer who buys a large quantity of products;
+- The customer who has a low recency.
+- The customer who has a high frequency.
+
+## 9.7  Which are the conditions for the people to be removed from the program?
+
+What is a good customer?
+
+- The customer who buys a large quantity of products;
+- The customer who has a low recency.
+- The customer who has a high frequency.
+
+Customers who do not fit these criteria will be removed.
 
 
-The Business Team can make many decision as they wantto solve the company problems based on the model result.
+## 9.8 What is the guarantee that the Insiders Problem is better than the rest of the base?
+
+
+<img width="679" alt="Screen Shot 2023-09-28 at 10 05 08 AM" src="https://github.com/adrielepinto/clustering/assets/97919969/62b212e6-4bd5-49b7-8006-44d03c6870fc">
+
+- The garantee is that Insiders Program has increased the company revenue in 69%, compared to the total base, totalizing $ 10,104,658.35
+
+## 9.9  What are the action the marketing team can do to enhance the revenue?
+
+- Apply the clustering model;
+- Increase the frequence from cluste 0.
+- Indentify which products has more returns and why they are returning;
+- Make the customer buy more expensive products;
+- Create strategy to make the customer returns more often and decrease the recency;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 4. Project Results 
 
 <img width="749" alt="Screen Shot 2023-01-10 at 5 42 23 AM" src="https://user-images.githubusercontent.com/97919969/211567049-d678bbab-5c3d-442f-9cf8-00bebc7c19c0.png">
