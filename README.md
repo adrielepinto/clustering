@@ -1,6 +1,7 @@
 # High Value Customer Identification
 
-![clust](https://github.com/adrielepinto/clustering/assets/97919969/c1b8901f-b218-4420-85f1-f4f05547a189)
+![186549533-fbf4412f-d2f0-4a93-8764-b608ad659330](https://github.com/adrielepinto/clustering/assets/97919969/83db68a6-5e46-43fd-bef7-b6cf19c1b3df)
+
 
 NOTE: The business context is fictitious, however all planning and development of the solution is implemented following all the steps of a real market project.
 You can follow the entire development of the project on notebook [c0.9-pa005-clustering-model-mindmap.ipynb](https://github.com/adrielepinto/clustering/blob/main/notebooks/c0.9-pa005-clustering-model-mindmap.ipynb)
@@ -191,11 +192,36 @@ What we are looking for is a silhouette with visibly wider edges.
 
 What can be seen in the graph above is that for the data used, the clustering is neither cohesive nor separate.
 
-# Cluster Analysis
-<img width="1014" alt="Screen Shot 2023-01-10 at 5 44 52 AM" src="https://user-images.githubusercontent.com/97919969/211567751-22715136-5529-425f-ac17-2f6bb81f385b.png">
+## 6.3 Sillhouete Score 
+
+<img width="614" alt="Screen Shot 2023-09-28 at 9 24 28 AM" src="https://github.com/adrielepinto/clustering/assets/97919969/4a51547f-b0f6-4818-a845-b39fe2e2b3a0">
+
+To separate the dataset into 4 clusters, sillhouette showed a score of 0.46. With the data used, this is the best results achieved, which can be improved in other project cycles.
+
+# 7.0 Cluster Visualization 
+
+<img width="848" alt="Screen Shot 2023-09-28 at 9 32 19 AM" src="https://github.com/adrielepinto/clustering/assets/97919969/241119c9-1756-4493-b8dc-539c206fcafb">
+
+This is the visual results of the final clustering.
 
 
-The image show how the GMM separeted each cluster.
+As in the real world, clustering doesn't always achieve the desired objectives. On the Graph, it is possible to notice that there are customers, that are grouped in the wrong cluster. As a data scientist, I tried to create features with the data from the dataset, which improve the results of the models. However, even with all the effort, the model tended not to identify customer similarities with excellence. Nevertheless, in another cycle, this result can be improved by collecting new data that helps in the separation and cohesion of the clustering.
+
+# 8.0 Model Reaults
+
+<img width="846" alt="Screen Shot 2023-09-28 at 9 47 08 AM" src="https://github.com/adrielepinto/clustering/assets/97919969/3e8d1baf-5fa1-4d38-a8f4-3319cca34158">
+
+## 8.1 Assumptions:
+
+What is a good customer?
+
+- The customer who buys a large quantity of products;
+- The customer who has a low recency.
+- The customer who has a high frequency.
+
+- 
+- The cluster that most identified with these criteria was cluster number 0.
+
 
 # Cluster Profile
 <img width="736" alt="Screen Shot 2023-01-10 at 5 47 00 AM" src="https://user-images.githubusercontent.com/97919969/211568014-8ea87c35-853f-491d-bd6d-e9f808280f2a.png">
