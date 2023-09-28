@@ -324,4 +324,4 @@ https://user-images.githubusercontent.com/97919969/211403435-df4448c4-82d6-4005-
 - DBeaver;
 - Metabase.
 
-Thank You  so much for reand my project. If you have any question about the projet, feel free to contact me at (LinkedIN)[https://www.linkedin.com/in/adriele-pinto] !
+Thank You  so much for reand my project. If you have any question about the projet, feel free to contact me at (LinkedIN)[https://www.linkedin.com/in/adriele-pinto/] !
