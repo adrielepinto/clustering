@@ -312,11 +312,16 @@ https://user-images.githubusercontent.com/97919969/211403435-df4448c4-82d6-4005-
 
 
 
-# Next Steps:
+# Tools:
 
-- Apply the clustering model;
-- Indentify which products has more returns and why they are returning;
-- Make the customer buy more expensive products;
-- Create strategy to make the customer returns more often and decrease the recency;
+- Jupyter Notebook
+- Python
+- Pandas, Numpy, Seaborn, Sklearn, Plotly, Umap, Scipy Libraries.
+- Plickle, S3sf 
+- Cronjob
+- Papermill
+- AWS: S3 bucket, RDS database.
+- DBeaver;
+- Metabase.
 
-Thank You for your Atenttion!
+Thank You  so much for reand my project. If you have any question about the projet, feel free to contact me at (LinkedIN)[https://www.linkedin.com/in/adriele-pinto] !
